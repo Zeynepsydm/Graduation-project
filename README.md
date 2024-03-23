@@ -1,8 +1,24 @@
-# Graduation-project 
+# my-web-app
 
-![Screenshot 2024-03-19 173507](https://github.com/Zeynepsydm/Graduation-project/assets/101592610/cc462ac0-4e02-476f-a49e-b887186ea2a9)
+## Project setup
+```
+yarn install
+```
 
-Yaptığım Login ekranı bu şekilde gözüküyor.
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
+### Compiles and minifies for production
+```
+yarn build
+```
 
-Php kullandım çünkü aynı zamanda ime yaptığımdan biraz zorlandım ben de daha önce çok değerli hocamın öğrettiği dil ile yazmaya karar verdim.
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
